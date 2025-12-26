@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define max 100000
+#define max 100001
 
 int a[max], n;
 
